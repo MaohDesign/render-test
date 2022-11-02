@@ -1,0 +1,12 @@
+{
+  "name": "render-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MaohDesign/render-test.git",
+  "author": "Maoh <maoh.design@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "safe-compare": "^1.1.4",
+    "static-auth": "^2.1.2"
+  }
+}
